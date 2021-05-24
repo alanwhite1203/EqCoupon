@@ -15,5 +15,9 @@ Unlike fixed coupon note, bonus coupon note does not have knock out feature and 
 Due to the complexity of the payoff structure, the note is normally priced via Monte Carlo simulation. 
 
 
-Reference:
-https://finpricing.com/lib/EqCoupon.html
+References:
+
+https://finpricing.com/lib/EqConvertible.html
+
+https://bitbucket.org/cmrm11/eqcoupon/downloads/EqCoupon-22.pdf
+
